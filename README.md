@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5d08c4bc-fbc3-4455-ab77-b8aee118e487)# Echoserver
+# Ex-01 Echoserver
 Echo server and client using python socket
 
 # AIM:
